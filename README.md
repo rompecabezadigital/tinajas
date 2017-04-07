@@ -1,2 +1,0 @@
-# tinajas
-wordpress
