@@ -9,7 +9,6 @@
 	</section>
 	
 
-<?php echo (get_page_template('beneficios-del-agua')); ?>
       
 	
 <?php get_footer(); ?>

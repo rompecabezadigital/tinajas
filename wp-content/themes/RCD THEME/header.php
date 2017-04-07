@@ -23,7 +23,10 @@
 </head>
 
 <body>
+	
+	<header></header>
 
+<!--
 <header id="masthead" class="site-header">
 	<div class="container">
 		<div class="row">
@@ -45,8 +48,9 @@
 		</div>
 		
 		<div class="clear"></div>
-	</div><!--/container -->
+	</div>
 		
-</header><!-- #masthead .site-header -->
+</header>
+-->
 
 <main class="main-fluid"><!-- start the page containter -->

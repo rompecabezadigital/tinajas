@@ -1,12 +1,9 @@
 	
 		
-		</main><!-- / end page container, begun in the header -->
+		</main>
 		
-		<footer class="site-footer">
-			<div class="site-info container">
-				
-			</div><!-- .site-info -->
-		</footer><!-- #colophon .site-footer -->
+		<footer>
+		</footer>
 		
 		<?php wp_footer();?>
 		<script src="js/bootstrap.min.js"></script>
